@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gbx_4l3_zcb">
+    <title>NCSU Moodle - Checking Grades</title>
+    <shortdesc>How to Check Course Grades Through Moodle
+</shortdesc>
+    <prolog><metadata><prodinfo>
+        <prodname>Moodle 3.2</prodname>
+    </prodinfo></metadata></prolog>
+    <taskbody>
+        <context>Checking your grades through Moodle is a super simple process. The first step is getting to the Moodle dashboard itself. Let’s get started!
+</context>
+        <steps>
+            <step>
+                <cmd>Step 1) Log into WolfWare 
+</cmd>
+            </step>
+            <step>
+                <cmd>Log into your WolfWare account at https://wolfware.ncsu.edu/ using your Unity ID and password. </cmd>
+            </step>
+            <step>
+                <cmd>Once you have logged into your WolfWare account, select the Moodle Symbol next to the course that you want to check your grades in. 
+</cmd>
+               
+            </step>
+            <step>
+                <cmd>Step 2) Find and Select the “Grades” Tab</cmd>
+            </step>
+            <step>
+                <cmd>Once you have arrived at your chosen course’s Moodle page, you will see a small, gray symbol in the upper left hand corner </cmd>
+            </step>
+            <step>
+                <cmd>Once you select the small gray symbol in the upper left corner, an index for that course’s Moodle page will appear  
+</cmd>
+               
+            </step>
+            <step>
+                <cmd>Within the index, select the tab labeled “Grades”. There you will find all the listed grades for your course. 
+</cmd>
+           
+        </steps>
+    </taskbody>
+</task>
